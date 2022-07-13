@@ -1,0 +1,10 @@
+Instalacija:
+
+Uzeti verziju MagicDraw 17.0.4 Standard Edition sa ovog linka:
+
+https://www.magicdraw.com/download_no_cost_plugins
+
+(sa leve strane kliknuti na dugme "Download by Product", izabrati MagicDraw i uneti 17.0.4 i Standard. Važno je da ne pogrešite verziju, zato što imamo licencu samo za nju.
+
+Za preuzimanje je potrebno da se prijavite na NoMagic sajt. Ukoliko ne želite, možete dobiti instalaciju i od asistenata.
+ 
