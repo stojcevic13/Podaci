@@ -1,0 +1,3 @@
+Ovo je prva linija. Ovo je druga78 recenica u prvoj liniji.
+Druga linija ima samo jednu recenicu.
+Treca linija ima nedovrsenu recenicu
