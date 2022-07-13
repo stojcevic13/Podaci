@@ -1,0 +1,30 @@
+najpopularnijaRelacija: !!zadatak01.Putovanje
+    cijena: 400.0
+    datumPolaska: 21.12.2012
+    mjestoDolaska: Novi Sad
+    mjestoPolaska: Beograd
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0000'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'
+najduzaRelacija: !!zadatak01.Putovanje
+    cijena: 500.0
+    datumPolaska: 21.12.2013
+    mjestoDolaska: Bijeljina
+    mjestoPolaska: Brcko
+    peron: 3
+    prodatihKarata: 20
+    sifra: '0002'
+    vrijemeDolaska: '13:00'
+    vrijemePolaska: '11:00'
+najisplativijaRelacija: !!zadatak01.Putovanje
+    cijena: 4000.0
+    datumPolaska: 21.12.2018
+    mjestoDolaska: Cetinje
+    mjestoPolaska: Kragujevac
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0007'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'

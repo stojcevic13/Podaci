@@ -1,0 +1,11 @@
+# ID; DA_LI_JE_AKTIVAN; IME; PREZIME; POL; DATUM_RODJENJA; TELEFON; ADRESA; KORISNICKO_IME; LOZINKA
+0000; true; Pera; Perić; muško; 21.10.2000; 0652551123; Pere Perića 13; pperic; pera123
+0001; true; Marko; Marković; muško; 21.10.2001; 0652551124; Marka Markovića 14; mmarkovic; marko123
+0002; true; Tijana; Tijanić; žensko; 14.08.2001; 0652551125; Tijane Tijanić 15; tt; tt
+0003; true; Milan; Pavkov; muško; 21.10.1996; 06532452343; Milana Pavkova 9; mpavkov; milan123
+0004; true; Simo; Simić; muško; 21.03.1978; 065873726; Žitka Mitića 12; ssimic; simo123
+0005; true; Sale; Katai; muško; 23.04.1990; 063637533; Saleta Kataija 10; skatai; sale123
+0006; true; Ana; Milić; žensko; 25.11.1993; 064748287; Ane Milić 2; amilic; ana123
+0007; true; Marija; Srnić; žensko; 19.10.1996; 06532523; Marije Srnić 6; msrnic; marija123
+0008; true; Mirko; Savić; muško; 13.11.1997; 066326343; Mirka Savića 7; msavic; mirko123
+0009; true; Petar; Mikić; muško; 12.12.1992; 062223334; Petra Mikića 8; pmikic; petar123

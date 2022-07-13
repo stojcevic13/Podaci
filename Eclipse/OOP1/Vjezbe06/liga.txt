@@ -1,0 +1,5 @@
+# ID_LIGE; NAZIV
+
+1; Prva Liga Srbije
+2; Liga Sampiona
+3; Liga Evrope

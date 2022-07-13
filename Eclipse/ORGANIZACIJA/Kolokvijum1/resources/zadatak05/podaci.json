@@ -1,0 +1,94 @@
+{
+  "iznajmljivanja" : [ {
+    "sifra" : "0000",
+    "mjesto" : "Beograd",
+    "datumIznajmljivanja" : "21.12.2012.",
+    "cijenaPoDanu" : 500.0,
+    "osoba" : {
+      "ime" : "Deki",
+      "prezime" : "Stankovic",
+      "jmbg" : "723456789876"
+    },
+    "datumVracanja" : "22.12.2012.",
+    "predjenoKilometara" : 30.0,
+    "dani" : 1
+  }, {
+    "sifra" : "0001",
+    "mjesto" : "Novi Sad",
+    "datumIznajmljivanja" : "22.12.2012.",
+    "cijenaPoDanu" : 500.0,
+    "osoba" : {
+      "ime" : "Janko",
+      "prezime" : "Jankovic2",
+      "jmbg" : "5234567890123"
+    },
+    "datumVracanja" : "23.12.2012.",
+    "predjenoKilometara" : 20.0,
+    "dani" : 1
+  }, {
+    "sifra" : "0002",
+    "mjesto" : "Nis",
+    "datumIznajmljivanja" : "23.12.2012.",
+    "cijenaPoDanu" : 850.0,
+    "osoba" : {
+      "ime" : "Sale",
+      "prezime" : "Katai",
+      "jmbg" : "623456759876"
+    },
+    "datumVracanja" : "26.12.2012.",
+    "predjenoKilometara" : 40.0,
+    "dani" : 3
+  }, {
+    "sifra" : "0003",
+    "mjesto" : "Subotica",
+    "datumIznajmljivanja" : "24.12.2012.",
+    "cijenaPoDanu" : 450.0,
+    "osoba" : {
+      "ime" : "Mirko",
+      "prezime" : "Ivanic",
+      "jmbg" : "623456789876"
+    },
+    "datumVracanja" : "27.12.2012.",
+    "predjenoKilometara" : 30.0,
+    "dani" : 3
+  }, {
+    "sifra" : "0004",
+    "mjesto" : "Smederevo",
+    "datumIznajmljivanja" : "25.12.2012.",
+    "cijenaPoDanu" : 650.0,
+    "osoba" : {
+      "ime" : "Deki",
+      "prezime" : "Stankovic",
+      "jmbg" : "723456789876"
+    },
+    "datumVracanja" : "29.12.2012.",
+    "predjenoKilometara" : 34.0,
+    "dani" : 4
+  }, {
+    "sifra" : "0005",
+    "mjesto" : "Kraljevo",
+    "datumIznajmljivanja" : "26.12.2012.",
+    "cijenaPoDanu" : 650.0,
+    "osoba" : {
+      "ime" : "Milan",
+      "prezime" : "Pavkov",
+      "jmbg" : "823456789876"
+    },
+    "datumVracanja" : "27.12.2012.",
+    "predjenoKilometara" : 53.0,
+    "dani" : 1
+  }, {
+    "sifra" : "0006",
+    "mjesto" : "Beograd",
+    "datumIznajmljivanja" : "27.12.2012.",
+    "cijenaPoDanu" : 250.0,
+    "osoba" : {
+      "ime" : "Milan",
+      "prezime" : "Borjan",
+      "jmbg" : "923456789876"
+    },
+    "datumVracanja" : "29.12.2012.",
+    "predjenoKilometara" : 21.0,
+    "dani" : 2
+  } ]
+}

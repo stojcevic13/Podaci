@@ -1,0 +1,7 @@
+# JEZIK_ID; AKTIVAN
+engleski; true
+španski; true
+ruski; true
+njemački; true
+japanski; true
+francuski; true

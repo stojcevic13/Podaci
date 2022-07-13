@@ -1,0 +1,5 @@
+# ID_KLUBA; NAZIV
+
+1; Crvena zvezda
+2; Partizan;
+3; Vojvodina

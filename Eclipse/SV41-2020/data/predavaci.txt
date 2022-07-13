@@ -1,0 +1,6 @@
+# ID; DA_LI_JE_AKTIVAN; ime; prezime; pol; datumRodjenja; telefon; adresa; korisnickoIme; lozinka; strucnaSprema; godineStaza; plata
+0000; true; Lazar; Petrović; muško; 24.08.1990; 0653415245; Lazara Petrovica 12; lpetrovic; lazar123; visoka; 5; 300.0
+0002; true; Milena; Danilović; žensko; 24.08.1980; 0654645238; Milene Danilović 13; mdanilovic; milena123; visoka; 6; 400.0
+0003; true; Dragana; Jovanović; žensko; 24.08.1987; 0653415246; Dragane Jovanović 13; djovanovic; dragana123; visoka; 7; 300.0
+0007; true; Dejan; Stanković; muško; 24.08.1970; 0653415241; Dekija Stankovića 16; dekistankovic; deki123; viša; 2; 300.0
+0008; true; ffsd; fdfsd; muško; 21.12.2021; 89234; gdfgdfg; gdfgd; gfdg; osnovna; 22; 22.0

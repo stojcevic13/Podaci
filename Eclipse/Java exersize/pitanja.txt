@@ -1,0 +1,6 @@
+1. Da li listu podataka cuvati kao ArrayList, HashMap ili oba?
+2. Vidi kako bi mogao lakse da dodajes studente, predmete, profesore u sistem preko funkcija koje bi radile vise stvari.
+   - Slicno kao sto si sa profesorom i predmetom uradio.
+3. Da li je dobra praksa kao kod ListMethods.professors ili to treba nekako drugacije da se rijesi?
+4. Postoji li neki laksi nacin da se napravi ovo sa ListMethods, neka generalizacija ili mora za svaki tip da se kopira?
+5. Da li polimorfizam moze kod ArrayList?

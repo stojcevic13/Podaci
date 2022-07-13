@@ -1,0 +1,7 @@
+# ID; Ime; Prezime; Id_Kluba
+1; Pera; Perić; 1
+2; Luka; Dončić; 1
+3; Bogdan; Bogdanović; 2
+4; Boban; Marjanović; 2
+5; Igor; Kokoškov; 3
+6; Miloš; Teodosić; 3

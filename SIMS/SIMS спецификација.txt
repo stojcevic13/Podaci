@@ -1,0 +1,43 @@
+Za svaku kategoriju vozila moze cena da se unese na odredjenoj rutini, putanji.
+Cena se moze menjati.
+Za svaku deonicu i svaku vrstu vozila, cenu unosi menadzer.
+Za registrovanje novih naplatnih mesta je admin. Unosi podatke o radnicima, unosi lozinke menja podatke.
+Kad dodjemo, uzmemo tiket, kad stignemo do cilja se radi naplata putarine.
+Gdegod da udjemo, moramo izaci na neko od naplatnih mesta. Za svake 2 deonice postoji posebna cena.
+Cene su fiksne. Zna se km izmedju stanica, odredjuje se cena po km. Moguce placanje u dinarima i evrima.
+Softver je za menadzera, vodje naplatnih stanica, radnike koji naplacuju.
+
+TAG ima samo ID na sebi, kad se kupi ostavljaju se podaci i kolko smo uplatili na njega.
+Kad se priblizi mestu za naplatu, prima signal da predstavi koji mu je ID, pa se poveze sa serverom, preuzme kolko imamo na racunu i skida se odatle.
+
+2 VRSTE:
+Elektronska uplata, triggeruje ga priblizavanje TAGa.
+Kad dodje bez taga, predaje se papiric, unosi se deonica sa papirica gde je usao, treba da se ucita cena automatski, kolko treba da se plati i izvrsi naplatu.
+Radnik na naplatnom mestu radi to.
+
+Radnik na pumpi ko ima pristup tom sistemu uplacuje pare. 
+Ako je vozac prebrzo stigao do cilja, obavestava se policija.
+Sef stanice stampa izvestaje za svaki dan:
+- Ukupna zarada za ceo dan
+- Koliko je zaradjeno po tipu vozila za svaki dan/ned/mesec/god dana.
+Koristi se da se upari izvestaj sa novcem u njemu.
+
+Sef takodje ima uvidjaj o ispravnosti uredjaja. Treba u svakom trenutku da vidi da li su svi uredjaji u redu ili je uredjaj ispao iz funkcije.
+
+Svako naplatno mesto ima nekoliko spoljnih uredjaja kojima ili izdaje naredbe da prikazu, ili dobija ulazne signale od njih. 
+Jedan od njih je citac taga, drugi citac tablice, semafor da prikaze da li radi, rampa. 
+U oba slucaja se cita tablica, da bi se ispratilo koliko brzo je stigao. Sistem cuva sve transakcije koje su se desile.
+
+Cenovnik se moze izmeniti unapred. Mora se videti kompletna istorija cena.
+
+Naplatna stanica: Stanica
+Naplatno mesto: ima ih vise na STANICI
+
+Razlika izmedju teretnog vozila i obicnog sa tagom???
+
+Cuvamo gde ulazi, gde izlazi, ko je usao
+SVE KRUPNO SVE JEDNOSTAVNO, DOBAR KONTRAST.
+
+PRAVIMO USE CASE, CLASS DIJAGRAM, DIJAGRAM AKTIVNOSTI I SEKVENCI KOLKO NAS U TIMU IMA I STATE DIJAGRAM ILI TAKO NEKI KRUAC.
+
+Sve moze biti java swing, python, stagod, c#. Ako je web, moze, al da je dbr i na webu.

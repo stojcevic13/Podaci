@@ -1,0 +1,9 @@
+# ID_KURSA; ID_JEZIKA; NIVO; ID_PREDAVACA; DA_LI_JE_AKTIVAN
+0000; engleski; a1; 0007; true
+0001; španski; a1; 0000; true
+0002; ruski; a1; 0007; true
+0003; japanski; a1; 0003; true
+0004; francuski; a1; 0002; true
+0005; njemački; a1; 0002; true
+0006; ruski; a2; 0007; true
+0007; ruski; a3; 0007; true

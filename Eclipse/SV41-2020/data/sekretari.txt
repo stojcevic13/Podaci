@@ -1,0 +1,3 @@
+# ID; DA_LI_JE_AKTIVAN; ime; prezime; pol; datumRodjenja; telefon; adresa; korisnickoIme; lozinka; strucnaSprema; godineStaza; plata
+0000; true; Mitar; Mrkela; muško; 29.06.1965; 0635832852; Mitra Mrkele 12; mmrkela; mitar123; visoka; 10; 500.0
+0001; true; Svetozar; Mijailović; muško; 13.01.1950; 065839142; Toze Mijailovića 10; tozamijailovic; toza123; visoka; 30; 450.0

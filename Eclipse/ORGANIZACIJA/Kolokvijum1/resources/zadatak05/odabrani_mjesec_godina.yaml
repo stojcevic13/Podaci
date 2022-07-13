@@ -1,0 +1,84 @@
+- !!zadatak05.Iznajmljivanje
+    cijenaPoDanu: 500.0
+    dani: 1
+    datumIznajmljivanja: 21.12.2012.
+    datumVracanja: 22.12.2012.
+    mjesto: Beograd
+    osoba:
+        ime: Deki
+        jmbg: '723456789876'
+        prezime: Stankovic
+    predjenoKilometara: 30.0
+    sifra: '0000'
+- !!zadatak05.Iznajmljivanje
+    cijenaPoDanu: 500.0
+    dani: 1
+    datumIznajmljivanja: 22.12.2012.
+    datumVracanja: 23.12.2012.
+    mjesto: Novi Sad
+    osoba:
+        ime: Janko
+        jmbg: '5234567890123'
+        prezime: Jankovic2
+    predjenoKilometara: 20.0
+    sifra: '0001'
+- !!zadatak05.Iznajmljivanje
+    cijenaPoDanu: 850.0
+    dani: 3
+    datumIznajmljivanja: 23.12.2012.
+    datumVracanja: 26.12.2012.
+    mjesto: Nis
+    osoba:
+        ime: Sale
+        jmbg: '623456759876'
+        prezime: Katai
+    predjenoKilometara: 40.0
+    sifra: '0002'
+- !!zadatak05.Iznajmljivanje
+    cijenaPoDanu: 450.0
+    dani: 3
+    datumIznajmljivanja: 24.12.2012.
+    datumVracanja: 27.12.2012.
+    mjesto: Subotica
+    osoba:
+        ime: Mirko
+        jmbg: '623456789876'
+        prezime: Ivanic
+    predjenoKilometara: 30.0
+    sifra: '0003'
+- !!zadatak05.Iznajmljivanje
+    cijenaPoDanu: 650.0
+    dani: 4
+    datumIznajmljivanja: 25.12.2012.
+    datumVracanja: 29.12.2012.
+    mjesto: Smederevo
+    osoba:
+        ime: Deki
+        jmbg: '723456789876'
+        prezime: Stankovic
+    predjenoKilometara: 34.0
+    sifra: '0004'
+- !!zadatak05.Iznajmljivanje
+    cijenaPoDanu: 650.0
+    dani: 1
+    datumIznajmljivanja: 26.12.2012.
+    datumVracanja: 27.12.2012.
+    mjesto: Kraljevo
+    osoba:
+        ime: Milan
+        jmbg: '823456789876'
+        prezime: Pavkov
+    predjenoKilometara: 53.0
+    sifra: '0005'
+- !!zadatak05.Iznajmljivanje
+    cijenaPoDanu: 250.0
+    dani: 2
+    datumIznajmljivanja: 27.12.2012.
+    datumVracanja: 29.12.2012.
+    mjesto: Beograd
+    osoba:
+        ime: Milan
+        jmbg: '923456789876'
+        prezime: Borjan
+    predjenoKilometara: 21.0
+    sifra: '0006'

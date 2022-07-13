@@ -1,0 +1,5 @@
+# ID; DIJAGONALA; PROIZVODJAC; CIJENA; TIP; hdmi/mp
+1; 5.0; Huawei; 300.0; MOBILNI; 12
+2; 70.0; LG; 200.0; TV; 4
+3; 120.0; VOX; 321.0; TV; 5
+4; 5.5; Samsung; 500; MOBILNI; 21

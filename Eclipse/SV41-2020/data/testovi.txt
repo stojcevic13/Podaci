@@ -1,0 +1,11 @@
+# ID_TESTA; OPIS; BROJ_BODOVA; LISTA_PITANJA; JEZIK; KURS; ID_PREDAVACA_KREATORA
+0000; Test iz kursa engleskog; 100; 1. Prvo pitanje, 2. Drugo pitanje, 3. Trece pitanje, 4. Cetvrto pitanje, 5. Peto pitanje; engleski; 0000; 0000
+0001; Test iz kursa spanskog; 90; 1. Prvo pitanje, 2. Drugo pitanje, 3. Trece pitanje, 4. Cetvrto pitanje, 5. Peto pitanje; španski; 0001; 0003
+0002; Test iz kursa francuskog; 100; 1. Prvo pitanje, 2. Drugo pitanje, 3. Trece pitanje, 4. Cetvrto pitanje, 5. Peto pitanje; francuski; 0004; 0002
+0003; Test iz kursa ruskog; 50; 1. Prvo pitanje, 2. Drugo pitanje, 3. Trece pitanje, 4. Cetvrto pitanje, 5. Peto pitanjeee; ruski; 0002; 0002
+0004; Test iz kursa engleskog2; 100; 1. Prvo pitanje, 2. Drugo pitanje, 3. Trece pitanje, 4. Cetvrto pitanje, 5. Peto pitanje; engleski; 0000; 0003
+0005; Test iz kursa ruskog2; 50; 1. Prvo pitanje, 2. Drugo pitanje, 3. Trece pitanje, 4. Cetvrto pitanje, 5. Peto pitanje; ruski; 0002; 0007
+0006; Test iz ruskog - Deki; 100; 1. Koji je glavni grad Rusije?, 2. Koliko Rusija ima stanovnika?, 3. Koliko Moskva ima stanovnika?, 4. Koja je najveća rijeka u Rusiji?, 5. Šta na ruskom znači "Spasibo"?; ruski; 0006; 0007
+0007; Test iz engleskog - Deki; 100; 1. Koji je glavni grad Engleske?, 2. Koja rijeka protiče kroz London?, 3. Koje boje sadrži zastava Engleske?, 4. Od koga je Engleska izgubila u finalu Evropskog prvenstva?; engleski; 0000; 0007
+0008; Test iz japanskog; 100; 1. Koji je glavni grad Japana?, 2. Glavni grad Japana?, 3. Koje boje sadrži zastava Japana?, 4. Broj stanovnika Japana?; japanski; 0003; 0003
+0009; Test iz njemackog; 100; 1. Koji je glavni grad Njemacke?, 2. Glavni grad Njemacke?, 3. Koje boje sadrži zastava Njemacke?, 4. Broj stanovnika Berlina?; njemački; 0005; 0002

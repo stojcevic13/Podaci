@@ -1,0 +1,14 @@
+# JEZIK; ID_PREDAVACA
+engleski; 0000
+engleski; 0003
+engleski; 0007
+engleski; 0008
+španski; 0000
+španski; 0003
+španski; 0008
+ruski; 0002
+ruski; 0007
+njemački; 0002
+japanski; 0003
+francuski; 0002
+francuski; 0007

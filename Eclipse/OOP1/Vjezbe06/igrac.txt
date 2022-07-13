@@ -1,0 +1,5 @@
+# ID_IGRACA; IME; PREZIME; ID_UGOVORA
+
+1; Pera; Peric; 2
+2; Mika; Mikic; 1
+3; Djura; Djuric; 3

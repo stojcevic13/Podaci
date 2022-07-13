@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<xmi:XMI xmlns:uml='http://www.omg.org/spec/UML/20110701' xmlns:xmi='http://www.omg.org/spec/XMI/20110701' xmlns:MagicDraw_Profile='http://www.omg.org/spec/UML/20110701/MagicDrawProfile' xmlns:Validation_Profile='http://www.magicdraw.com/schemas/Validation_Profile.xmi' xmlns:DSL_Customization='http://www.magicdraw.com/schemas/DSL_Customization.xmi' xmlns:StandardProfileL3='http://www.omg.org/spec/UML/20110701/StandardProfileL3' xmlns:Data='http://www.magicdraw.com/schemas/Data.xmi'>
+	<xmi:Documentation>
+		<xmi:exporter>MagicDraw UML</xmi:exporter>
+		<xmi:exporterVersion>17.0.3</xmi:exporterVersion>
+	</xmi:Documentation>
+	<uml:Model xmi:type='uml:Model' xmi:id='eee_1045467100313_135436_1' name='Data'>
+		<ownedComment xmi:type='uml:Comment' xmi:id='_17_0_3_1_116c0388_1655044875042_800388_2845' body='Author:SlepiLepi.&#10;Created:6/12/22 4:41 PM.&#10;Title:.&#10;Comment:.&#10;'>
+			<annotatedElement xmi:idref='eee_1045467100313_135436_1'/>
+		</ownedComment>
+		<xmi:Extension extender='MagicDraw UML 17.0.3'>
+			<modelExtension>
+				<ownedDiagram xmi:type='uml:Diagram' xmi:id='_17_0_3_1_116c0388_1655044887410_494316_2968' name='Untitled1' visibility='public' ownerOfDiagram='eee_1045467100313_135436_1'>
+					<xmi:Extension extender='MagicDraw UML 17.0.3'>
+						<diagramRepresentation>
+							<diagram:DiagramRepresentationObject ID='_17_0_3_1_116c0388_1655044887547_515085_2988' initialFrameSizeSet='true' requiredFeature=';UML_Standard_Profile.mdzip^UML_FEATURE' type='Use Case Diagram' umlType='Use Case Diagram' xmi:id='_vZoK0OpdEeyQw_JgvrI1XQ' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+								<diagramContents contentHash='eb085f35-8396-44a6-8090-7c5616228ab5' exporterName='MagicDraw UML' exporterVersion='17.0.3' xmi:id='_vZoK0epdEeyQw_JgvrI1XQ'>
+									<binaryObject streamContentID='BINARY-ff41a7be-cced-42df-ac3a-508c04d4e759' xmi:id='_vZox4OpdEeyQw_JgvrI1XQ' xsi:type='binary:StreamIdentityBinaryObject'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048886916_700033_3761'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655044894871_667994_2990'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046170193_652851_3249'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046144076_192970_3233'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046688366_85992_3383'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048736772_318359_3734'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046818832_551290_3418'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046170193_870064_3250'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046818833_621453_3419'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047454153_227348_3543'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047883163_138311_3581'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046170193_64213_3251'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047861430_822487_3566'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655044902274_188646_3009'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655045251458_599486_3119'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047883163_953820_3583'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046118579_391786_3215'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047570162_912804_3560'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046118578_353460_3214'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048740559_137583_3742'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046791679_998286_3402'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048221715_159666_3683'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046118579_321772_3216'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046818832_920688_3417'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655045214738_946234_3098'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655044907580_129476_3028'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655044931965_375551_3066'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047350627_609944_3507'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046688366_717800_3384'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046090638_392411_3198'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655045251458_62104_3121'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048740559_864350_3743'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048914282_891780_3776'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048740559_941935_3744'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047883163_714291_3582'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048221715_172807_3684'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655045251458_688882_3120'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046667100_889578_3368'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048914282_21265_3777'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047103578_27258_3452'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048221716_777948_3685'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047454152_548763_3541'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048667394_148623_3715'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048914283_391767_3778'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047338705_55459_3470'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047443994_658415_3526'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047350628_148636_3509'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047094796_856063_3436'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655045067014_560119_3085'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047350627_737181_3508'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655048208160_319904_3668'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047103578_146506_3451'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655044887410_494316_2968'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047454152_448135_3542'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655046688366_571238_3385'/>
+									<usedObjects href='#_17_0_3_1_116c0388_1655047103579_321572_3453'/>
+									<usedElements>_17_0_3_1_116c0388_1655048886916_700033_3761</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655044894871_667994_2990</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046170193_652851_3249</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046144076_192970_3233</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046688366_85992_3383</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048736772_318359_3734</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046818832_551290_3418</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046170193_870064_3250</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046818833_621453_3419</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047454153_227348_3543</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047883163_138311_3581</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046170193_64213_3251</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047861430_822487_3566</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655044902274_188646_3009</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655045251458_599486_3119</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047883163_953820_3583</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046118579_391786_3215</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047570162_912804_3560</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046118578_353460_3214</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048740559_137583_3742</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046791679_998286_3402</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048221715_159666_3683</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046118579_321772_3216</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046818832_920688_3417</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655045214738_946234_3098</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655044907580_129476_3028</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655044931965_375551_3066</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047350627_609944_3507</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046688366_717800_3384</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046090638_392411_3198</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655045251458_62104_3121</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048740559_864350_3743</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048914282_891780_3776</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048740559_941935_3744</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047883163_714291_3582</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048221715_172807_3684</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655045251458_688882_3120</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046667100_889578_3368</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048914282_21265_3777</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047103578_27258_3452</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048221716_777948_3685</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047454152_548763_3541</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048667394_148623_3715</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048914283_391767_3778</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047338705_55459_3470</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047443994_658415_3526</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047350628_148636_3509</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047094796_856063_3436</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655045067014_560119_3085</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047350627_737181_3508</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655048208160_319904_3668</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047103578_146506_3451</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655044887410_494316_2968</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047454152_448135_3542</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655046688366_571238_3385</usedElements>
+									<usedElements>_17_0_3_1_116c0388_1655047103579_321572_3453</usedElements>
+								</diagramContents>
+							</diagram:DiagramRepresentationObject>
+						</diagramRepresentation>
+					</xmi:Extension>
+				</ownedDiagram>
+			</modelExtension>
+		</xmi:Extension>
+		<packagedElement xmi:type='uml:Actor' xmi:id='_17_0_3_1_116c0388_1655044894871_667994_2990' name='Manager'/>
+		<packagedElement xmi:type='uml:Actor' xmi:id='_17_0_3_1_116c0388_1655044902274_188646_3009' name='Admin'/>
+		<packagedElement xmi:type='uml:Actor' xmi:id='_17_0_3_1_116c0388_1655044907580_129476_3028' name='Worker'/>
+		<packagedElement xmi:type='uml:Actor' xmi:id='_17_0_3_1_116c0388_1655044915240_445068_3047' name='Consumer'/>
+		<packagedElement xmi:type='uml:Actor' xmi:id='_17_0_3_1_116c0388_1655044931965_375551_3066' name='System'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655045067014_560119_3085' name='Pricelist'/>
+		<packagedElement xmi:type='uml:Actor' xmi:id='_17_0_3_1_116c0388_1655045214738_946234_3098' name='Toll station leader'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655045251458_599486_3119'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655045251458_688882_3120'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655045251458_62104_3121'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655045251458_688882_3120'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655045251458_62104_3121'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655045251458_688882_3120' visibility='private' type='_17_0_3_1_116c0388_1655045067014_560119_3085' association='_17_0_3_1_116c0388_1655045251458_599486_3119'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655045251458_62104_3121' visibility='private' type='_17_0_3_1_116c0388_1655044894871_667994_2990' association='_17_0_3_1_116c0388_1655045251458_599486_3119'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655045338982_535249_3138' name='Price'/>
+		<packagedElement xmi:type='uml:Stereotype' xmi:id='_17_0_3_1_116c0388_1655045694872_703591_3157' name='CRUD'>
+			<ownedAttribute xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655045694873_727128_3159' name='base_Element' visibility='private' association='_17_0_3_1_116c0388_1655045694873_309591_3158'>
+				<type href='http://www.omg.org/spec/UML/20110701/UML.xmi#Element'>
+					<xmi:Extension extender='MagicDraw UML 17.0.3'>
+						<referenceExtension referentPath='UML Standard Profile::UML2 Metamodel::Element' referentType='Class'/>
+					</xmi:Extension>
+				</type>
+			</ownedAttribute>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Extension' xmi:id='_17_0_3_1_116c0388_1655045694873_309591_3158'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655045694873_727128_3159'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655045694874_907615_3160'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655045694874_907615_3160'/>
+			<ownedEnd xmi:type='uml:ExtensionEnd' xmi:id='_17_0_3_1_116c0388_1655045694874_907615_3160' name='extension_unnamed1' visibility='private' aggregation='composite' type='_17_0_3_1_116c0388_1655045694872_703591_3157' association='_17_0_3_1_116c0388_1655045694873_309591_3158'>
+				<lowerValue xmi:type='uml:LiteralInteger' xmi:id='_17_0_3_1_116c0388_1655045694874_561668_3161'/>
+				<xmi:Extension extender='MagicDraw UML 17.0.3'>
+					<modelExtension>
+						<upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:id='_17_0_3_1_116c0388_1655045694874_416866_3162' value='1'/>
+					</modelExtension>
+				</xmi:Extension>
+			</ownedEnd>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046090638_392411_3198' name='Toll Station'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655046118578_353460_3214'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046118579_391786_3215'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046118579_321772_3216'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046118579_391786_3215'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046118579_321772_3216'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046118579_391786_3215' visibility='private' type='_17_0_3_1_116c0388_1655046090638_392411_3198' association='_17_0_3_1_116c0388_1655046118578_353460_3214'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046118579_321772_3216' visibility='private' type='_17_0_3_1_116c0388_1655044902274_188646_3009' association='_17_0_3_1_116c0388_1655046118578_353460_3214'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046144076_192970_3233' name='Worker'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655046170193_652851_3249'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046170193_870064_3250'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046170193_64213_3251'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046170193_870064_3250'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046170193_64213_3251'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046170193_870064_3250' visibility='private' type='_17_0_3_1_116c0388_1655046144076_192970_3233' association='_17_0_3_1_116c0388_1655046170193_652851_3249'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046170193_64213_3251' visibility='private' type='_17_0_3_1_116c0388_1655044902274_188646_3009' association='_17_0_3_1_116c0388_1655046170193_652851_3249'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046220110_773467_3268' name='Pay'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046498996_273987_3302' name='Pay with TAG'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046579045_79722_3344'>
+			<generalization xmi:type='uml:Generalization' xmi:id='_17_0_3_1_116c0388_1655046579065_654823_3345' general='_17_0_3_1_116c0388_1655046220110_773467_3268'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046588174_226696_3348'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046592073_283816_3352' name='Pay in cash'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046667100_889578_3368' name='Print report'>
+			<extend xmi:type='uml:Extend' xmi:id='_17_0_3_1_116c0388_1655048724259_101576_3728' visibility='public' extendedCase='_17_0_3_1_116c0388_1655048667394_148623_3715'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655046688366_85992_3383'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046688366_717800_3384'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046688366_571238_3385'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046688366_717800_3384'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046688366_571238_3385'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046688366_717800_3384' visibility='private' type='_17_0_3_1_116c0388_1655045214738_946234_3098' association='_17_0_3_1_116c0388_1655046688366_85992_3383'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046688366_571238_3385' visibility='private' type='_17_0_3_1_116c0388_1655046667100_889578_3368' association='_17_0_3_1_116c0388_1655046688366_85992_3383'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655046791679_998286_3402' name='Check state of device'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655046818832_920688_3417'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046818832_551290_3418'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655046818833_621453_3419'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046818832_551290_3418'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655046818833_621453_3419'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046818832_551290_3418' visibility='private' type='_17_0_3_1_116c0388_1655045214738_946234_3098' association='_17_0_3_1_116c0388_1655046818832_920688_3417'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655046818833_621453_3419' visibility='private' type='_17_0_3_1_116c0388_1655046791679_998286_3402' association='_17_0_3_1_116c0388_1655046818832_920688_3417'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655047094796_856063_3436' name='Charge the customer'>
+			<include xmi:type='uml:Include' xmi:id='_17_0_3_1_116c0388_1655047570162_912804_3560' visibility='public' addition='_17_0_3_1_116c0388_1655047443994_658415_3526'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655047103578_146506_3451'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047103578_27258_3452'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047103579_321572_3453'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047103578_27258_3452'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047103579_321572_3453'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047103578_27258_3452' visibility='private' type='_17_0_3_1_116c0388_1655047094796_856063_3436' association='_17_0_3_1_116c0388_1655047103578_146506_3451'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047103579_321572_3453' visibility='private' type='_17_0_3_1_116c0388_1655044907580_129476_3028' association='_17_0_3_1_116c0388_1655047103578_146506_3451'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655047338705_55459_3470' name='Give ticket to customer'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655047347570_238087_3485'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655047347587_934413_3486'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047347587_383917_3487'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047347588_381982_3488'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047347587_383917_3487'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047347588_381982_3488'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047347587_383917_3487' visibility='private' type='_17_0_3_1_116c0388_1655047347570_238087_3485' association='_17_0_3_1_116c0388_1655047347587_934413_3486'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047347588_381982_3488' visibility='private' type='_17_0_3_1_116c0388_1655044931965_375551_3066' association='_17_0_3_1_116c0388_1655047347587_934413_3486'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655047350627_609944_3507'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047350627_737181_3508'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047350628_148636_3509'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047350627_737181_3508'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047350628_148636_3509'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047350627_737181_3508' visibility='private' type='_17_0_3_1_116c0388_1655047338705_55459_3470' association='_17_0_3_1_116c0388_1655047350627_609944_3507'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047350628_148636_3509' visibility='private' type='_17_0_3_1_116c0388_1655044931965_375551_3066' association='_17_0_3_1_116c0388_1655047350627_609944_3507'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655047443994_658415_3526' name='Calculate price'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655047454152_548763_3541'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047454152_448135_3542'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047454153_227348_3543'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047454152_448135_3542'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047454153_227348_3543'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047454152_448135_3542' visibility='private' type='_17_0_3_1_116c0388_1655044931965_375551_3066' association='_17_0_3_1_116c0388_1655047454152_548763_3541'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047454153_227348_3543' visibility='private' type='_17_0_3_1_116c0388_1655047443994_658415_3526' association='_17_0_3_1_116c0388_1655047454152_548763_3541'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655047861430_822487_3566' name='Charge the TAG'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655047883163_138311_3581'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047883163_714291_3582'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655047883163_953820_3583'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047883163_714291_3582'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655047883163_953820_3583'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047883163_714291_3582' visibility='private' type='_17_0_3_1_116c0388_1655047861430_822487_3566' association='_17_0_3_1_116c0388_1655047883163_138311_3581'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655047883163_953820_3583' visibility='private' type='_17_0_3_1_116c0388_1655044931965_375551_3066' association='_17_0_3_1_116c0388_1655047883163_138311_3581'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655048145984_445011_3600' name='Read TAG ID'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655048153597_547877_3613' name='Read Registration Plates'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655048164294_547175_3628'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048164295_865722_3629'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048164295_774615_3630'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048164295_865722_3629'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048164295_774615_3630'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048164295_865722_3629' visibility='private' type='_17_0_3_1_116c0388_1655044931965_375551_3066' association='_17_0_3_1_116c0388_1655048164294_547175_3628'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048164295_774615_3630' visibility='private' type='_17_0_3_1_116c0388_1655048145984_445011_3600' association='_17_0_3_1_116c0388_1655048164294_547175_3628'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655048208160_319904_3668' name='Check speed'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655048221715_159666_3683'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048221715_172807_3684'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048221716_777948_3685'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048221715_172807_3684'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048221716_777948_3685'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048221715_172807_3684' visibility='private' type='_17_0_3_1_116c0388_1655044931965_375551_3066' association='_17_0_3_1_116c0388_1655048221715_159666_3683'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048221716_777948_3685' visibility='private' type='_17_0_3_1_116c0388_1655048208160_319904_3668' association='_17_0_3_1_116c0388_1655048221715_159666_3683'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655048437500_27122_3702'/>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655048667394_148623_3715' name='Calculate daily income'>
+			<extend xmi:type='uml:Extend' xmi:id='_17_0_3_1_116c0388_1655048736772_318359_3734' visibility='public' extendedCase='_17_0_3_1_116c0388_1655046667100_889578_3368'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655048740559_137583_3742'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048740559_864350_3743'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048740559_941935_3744'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048740559_864350_3743'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048740559_941935_3744'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048740559_864350_3743' visibility='private' type='_17_0_3_1_116c0388_1655045214738_946234_3098' association='_17_0_3_1_116c0388_1655048740559_137583_3742'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048740559_941935_3744' visibility='private' type='_17_0_3_1_116c0388_1655048667394_148623_3715' association='_17_0_3_1_116c0388_1655048740559_137583_3742'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:UseCase' xmi:id='_17_0_3_1_116c0388_1655048886916_700033_3761' name='Show if device is in function'/>
+		<packagedElement xmi:type='uml:Association' xmi:id='_17_0_3_1_116c0388_1655048914282_891780_3776'>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048914282_21265_3777'/>
+			<memberEnd xmi:idref='_17_0_3_1_116c0388_1655048914283_391767_3778'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048914282_21265_3777'/>
+			<navigableOwnedEnd xmi:idref='_17_0_3_1_116c0388_1655048914283_391767_3778'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048914282_21265_3777' visibility='private' type='_17_0_3_1_116c0388_1655044931965_375551_3066' association='_17_0_3_1_116c0388_1655048914282_891780_3776'/>
+			<ownedEnd xmi:type='uml:Property' xmi:id='_17_0_3_1_116c0388_1655048914283_391767_3778' visibility='private' type='_17_0_3_1_116c0388_1655048886916_700033_3761' association='_17_0_3_1_116c0388_1655048914282_891780_3776'/>
+		</packagedElement>
+	</uml:Model>
+	<xmi:Extension extender='MagicDraw UML 17.0.3'>
+		<stereotypesHREFS>
+			<stereotype name='Data:CRUD' stereotypeHREF='local:/PROJECT-3635c70b-511d-42c7-b21d-3acf12d2f9c2?resource=com.nomagic.magicdraw.uml_umodel.model#_17_0_3_1_116c0388_1655045694872_703591_3157'/>
+			<stereotype name='MagicDraw_Profile:DiagramInfo' stereotypeHREF='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_9_0_be00301_1108044380615_150487_0'/>
+			<tag name='MagicDraw_Profile:DiagramInfo:Creation_date' tagID='_be00301_1073306188629_537791_2' tagURI='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_be00301_1073306188629_537791_2'/>
+			<tag name='MagicDraw_Profile:DiagramInfo:Author' tagID='_be00301_1077726770128_871366_1' tagURI='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_be00301_1077726770128_871366_1'/>
+			<tag name='MagicDraw_Profile:DiagramInfo:Modification_date' tagID='_be00301_1073394345322_922552_1' tagURI='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_be00301_1073394345322_922552_1'/>
+			<tag name='MagicDraw_Profile:DiagramInfo:Last_modified_by' tagID='_16_8beta_8ca0285_1257244649124_794756_344' tagURI='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_16_8beta_8ca0285_1257244649124_794756_344'/>
+			<tag name='MagicDraw_Profile:DiagramInfo:base_Element' tagID='_10_0EAPbeta_be00301_1123081772098_411862_275' tagURI='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_10_0EAPbeta_be00301_1123081772098_411862_275'/>
+		</stereotypesHREFS>
+		<favoriteElements xmi:value=''/>
+	</xmi:Extension>
+	<Data:CRUD xmi:id='_17_0_3_1_116c0388_1655045836937_485532_3191' base_Element='_17_0_3_1_116c0388_1655045067014_560119_3085'/>
+	<Data:CRUD xmi:id='_17_0_3_1_116c0388_1655046100771_855805_3210' base_Element='_17_0_3_1_116c0388_1655046090638_392411_3198'/>
+	<Data:CRUD xmi:id='_17_0_3_1_116c0388_1655045705947_47045_3163' base_Element='_17_0_3_1_116c0388_1655045338982_535249_3138'/>
+	<Data:CRUD xmi:id='_17_0_3_1_116c0388_1655046150528_620441_3245' base_Element='_17_0_3_1_116c0388_1655046144076_192970_3233'/>
+	<MagicDraw_Profile:DiagramInfo xmi:id='_17_0_3_1_116c0388_1655044887527_417874_2979' base_Diagram='_17_0_3_1_116c0388_1655044887410_494316_2968' Creation_date='6/12/22 4:41 PM' Modification_date='6/12/22 5:48 PM' Author='SlepiLepi' Last_modified_by='SlepiLepi'/>
+</xmi:XMI>

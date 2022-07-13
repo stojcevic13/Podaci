@@ -1,0 +1,122 @@
+[ {
+  "sifra" : "0000",
+  "mjestoPolaska" : "Beograd",
+  "mjestoDolaska" : "Novi Sad",
+  "datumPolaska" : "21.12.2012",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 400.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+}, {
+  "sifra" : "0000",
+  "mjestoPolaska" : "Beograd",
+  "mjestoDolaska" : "Novi Sad",
+  "datumPolaska" : "22.12.2012",
+  "vrijemePolaska" : "14:00",
+  "vrijemeDolaska" : "15:00",
+  "peron" : 6,
+  "cijena" : 400.0,
+  "prodatihKarata" : 15,
+  "trajanje" : 60
+}, {
+  "sifra" : "0002",
+  "mjestoPolaska" : "Brcko",
+  "mjestoDolaska" : "Bijeljina",
+  "datumPolaska" : "21.12.2013",
+  "vrijemePolaska" : "11:00",
+  "vrijemeDolaska" : "13:00",
+  "peron" : 3,
+  "cijena" : 500.0,
+  "prodatihKarata" : 20,
+  "trajanje" : 120
+}, {
+  "sifra" : "0003",
+  "mjestoPolaska" : "Subotica",
+  "mjestoDolaska" : "Novi Sad",
+  "datumPolaska" : "21.12.2014",
+  "vrijemePolaska" : "15:00",
+  "vrijemeDolaska" : "16:00",
+  "peron" : 2,
+  "cijena" : 450.0,
+  "prodatihKarata" : 20,
+  "trajanje" : 60
+}, {
+  "sifra" : "0004",
+  "mjestoPolaska" : "Kikinda",
+  "mjestoDolaska" : "Zajecar",
+  "datumPolaska" : "21.12.2015",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 400.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+}, {
+  "sifra" : "0005",
+  "mjestoPolaska" : "Zrenjanin",
+  "mjestoDolaska" : "Pozarevac",
+  "datumPolaska" : "21.12.2016",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 400.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+}, {
+  "sifra" : "0006",
+  "mjestoPolaska" : "Vranje",
+  "mjestoDolaska" : "Golubac",
+  "datumPolaska" : "21.12.2017",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 900.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+}, {
+  "sifra" : "0007",
+  "mjestoPolaska" : "Kragujevac",
+  "mjestoDolaska" : "Cetinje",
+  "datumPolaska" : "21.12.2018",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 4000.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+}, {
+  "sifra" : "0008",
+  "mjestoPolaska" : "Valjevo",
+  "mjestoDolaska" : "Kraljevo",
+  "datumPolaska" : "21.12.2019",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 400.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+}, {
+  "sifra" : "0009",
+  "mjestoPolaska" : "Cacak",
+  "mjestoDolaska" : "Krusevac",
+  "datumPolaska" : "21.12.2020",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 500.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+}, {
+  "sifra" : "0010",
+  "mjestoPolaska" : "Kosovska Mitrovica",
+  "mjestoDolaska" : "Smederevo",
+  "datumPolaska" : "21.12.2021",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 800.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+} ]

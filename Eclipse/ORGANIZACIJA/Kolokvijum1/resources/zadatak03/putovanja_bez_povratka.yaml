@@ -1,0 +1,100 @@
+- !!zadatak01.Putovanje
+    cijena: 400.0
+    datumPolaska: 22.12.2012
+    mjestoDolaska: Beograd
+    mjestoPolaska: Novi Sad
+    peron: 6
+    prodatihKarata: 15
+    sifra: '0000'
+    vrijemeDolaska: '15:00'
+    vrijemePolaska: '14:00'
+- !!zadatak01.Putovanje
+    cijena: 500.0
+    datumPolaska: 21.12.2013
+    mjestoDolaska: Bijeljina
+    mjestoPolaska: Brcko
+    peron: 3
+    prodatihKarata: 20
+    sifra: '0002'
+    vrijemeDolaska: '13:00'
+    vrijemePolaska: '11:00'
+- !!zadatak01.Putovanje
+    cijena: 450.0
+    datumPolaska: 21.12.2014
+    mjestoDolaska: Novi Sad
+    mjestoPolaska: Subotica
+    peron: 2
+    prodatihKarata: 20
+    sifra: '0003'
+    vrijemeDolaska: '16:00'
+    vrijemePolaska: '15:00'
+- !!zadatak01.Putovanje
+    cijena: 400.0
+    datumPolaska: 21.12.2015
+    mjestoDolaska: Zajecar
+    mjestoPolaska: Kikinda
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0004'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'
+- !!zadatak01.Putovanje
+    cijena: 400.0
+    datumPolaska: 21.12.2016
+    mjestoDolaska: Pozarevac
+    mjestoPolaska: Zrenjanin
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0005'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'
+- !!zadatak01.Putovanje
+    cijena: 900.0
+    datumPolaska: 21.12.2017
+    mjestoDolaska: Golubac
+    mjestoPolaska: Vranje
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0006'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'
+- !!zadatak01.Putovanje
+    cijena: 4000.0
+    datumPolaska: 21.12.2018
+    mjestoDolaska: Cetinje
+    mjestoPolaska: Kragujevac
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0007'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'
+- !!zadatak01.Putovanje
+    cijena: 400.0
+    datumPolaska: 21.12.2019
+    mjestoDolaska: Kraljevo
+    mjestoPolaska: Valjevo
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0008'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'
+- !!zadatak01.Putovanje
+    cijena: 500.0
+    datumPolaska: 21.12.2020
+    mjestoDolaska: Krusevac
+    mjestoPolaska: Cacak
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0009'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'
+- !!zadatak01.Putovanje
+    cijena: 800.0
+    datumPolaska: 21.12.2021
+    mjestoDolaska: Smederevo
+    mjestoPolaska: Kosovska Mitrovica
+    peron: 5
+    prodatihKarata: 10
+    sifra: '0010'
+    vrijemeDolaska: '14:00'
+    vrijemePolaska: '13:00'

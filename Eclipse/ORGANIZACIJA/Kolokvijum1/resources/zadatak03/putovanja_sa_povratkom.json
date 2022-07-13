@@ -1,0 +1,12 @@
+[ {
+  "sifra" : "0000",
+  "mjestoPolaska" : "Beograd",
+  "mjestoDolaska" : "Novi Sad",
+  "datumPolaska" : "21.12.2012",
+  "vrijemePolaska" : "13:00",
+  "vrijemeDolaska" : "14:00",
+  "peron" : 5,
+  "cijena" : 400.0,
+  "prodatihKarata" : 10,
+  "trajanje" : 60
+} ]

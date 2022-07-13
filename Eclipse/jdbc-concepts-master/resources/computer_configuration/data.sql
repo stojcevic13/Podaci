@@ -1,0 +1,43 @@
+insert into proizvodjac values (1, 'proizvodjac1', 5);
+insert into proizvodjac values (2, 'proizvodjac2', 10);
+insert into proizvodjac values (3, 'proizvodjac3', 15);
+insert into proizvodjac values (4, 'proizvodjac4', 20);
+insert into proizvodjac values (5, 'proizvodjac5', 25);
+insert into proizvodjac values (6, 'proizvodjac6', 30);
+insert into proizvodjac values (7, 'proizvodjac7', 35);
+insert into proizvodjac values (8, 'proizvodjac8', 40);
+insert into proizvodjac values (9, 'proizvodjac9', 45);
+insert into proizvodjac values (10, 'proizvodjac10', 50);
+
+insert into servis values (1, 'servis1', 'Brcko');
+insert into servis values (2, 'servis2', 'Brcko');
+insert into servis values (3, 'servis3', 'Brcko');
+insert into servis values (4, 'servis4', 'Brcko');
+insert into servis values (5, 'servis5', 'Brcko');
+insert into servis values (6, 'servis6', 'Beograd');
+insert into servis values (7, 'servis7', 'Beograd');
+insert into servis values (8, 'servis8', 'Beograd');
+insert into servis values (9, 'servis9', 'Beograd');
+insert into servis values (10, 'servis10', 'Beograd');
+
+insert into ugovor values (1, 1, 1, 'uslovi1');
+insert into ugovor values (2, 1, 2, 'uslovi2');
+insert into ugovor values (3, 1, 3, 'uslovi3');
+insert into ugovor values (4, 2, 4, 'uslovi4');
+insert into ugovor values (5, 2, 5, 'uslovi5');
+insert into ugovor values (6, 2, 6, 'uslovi6');
+insert into ugovor values (7, 3, 7, 'uslovi7');
+insert into ugovor values (8, 3, 8, 'uslovi8');
+insert into ugovor values (9, 3, 9, 'uslovi9');
+insert into ugovor values (10, 4, 10, 'uslovi10');
+
+insert into masina values (1, 'masina1', 1);
+insert into masina values (2, 'masina2', 1);
+insert into masina values (3, 'masina3', 1);
+insert into masina values (4, 'masina4', 5);
+insert into masina values (5, 'masina5', 2);
+insert into masina values (6, 'masina6', 2);
+insert into masina values (7, 'masina7', 3);
+insert into masina values (8, 'masina8', 3);
+insert into masina values (9, 'masina9', 4);
+insert into masina values (10, 'masina10', 4);

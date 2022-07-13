@@ -1,0 +1,2 @@
+# ID; DA_LI_JE_AKTIVAN; ime; prezime; pol; datumRodjenja; telefon; adresa; korisnickoIme; lozinka; strucnaSprema, godStaza; plata
+0000; true; Zvezdan; Terzić; muško; 21.05.1966; 064524623; Zvezdana Terzića 91; zterzic; zvezdan123; visoka; 10; 1500.0
